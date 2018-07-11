@@ -1,0 +1,15 @@
+{
+  "name": "obalter-ntp",
+  "version": "0.1.0",
+  "author": "obalter",
+  "summary": "NTP Puppet module",
+  "license": "Apache-2.0",
+  "source": "git@github.com:olgabalter/puppetexam-ntp.git",
+  "project_page": "https://github.com/olgabalter/puppetexam-ntp",
+  "issues_url": "https://github.com/olgabalter/puppetexam-ntp/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
